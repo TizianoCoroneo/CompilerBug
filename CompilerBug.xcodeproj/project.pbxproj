@@ -22,6 +22,7 @@
 		53B95B1D22CA1D8900C76F05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		53B95B2022CA1D8900C76F05 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		53B95B2222CA1D8900C76F05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53B95B2822CA284D00C76F05 /* BadPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = BadPlayground.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				53B95B1D22CA1D8900C76F05 /* Assets.xcassets */,
 				53B95B1F22CA1D8900C76F05 /* LaunchScreen.storyboard */,
 				53B95B2222CA1D8900C76F05 /* Info.plist */,
+				53B95B2822CA284D00C76F05 /* BadPlayground.playground */,
 			);
 			path = CompilerBug;
 			sourceTree = "<group>";
